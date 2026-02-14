@@ -1,16 +1,38 @@
-## Hi there 👋
+**Software Engineer · Systems Architecture · IoT & Broadcast Infrastructure**
 
-<!--
-**DavidHarrisRid/DavidHarrisRid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and integrate distributed systems for mission-critical broadcast and telecommunication environments.
 
-Here are some ideas to get you started:
+Currently **Software Engineer – IoT Consultant** at  
+SHM Broadcast GmbH  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+B.Sc. Software Engineering (in progress, expected Feb 2027)
+
+---
+
+## Focus
+
+- C# / .NET  
+- System Architecture & Modular Design  
+- Distributed & IoT Systems  
+- Broadcast & Telecom Infrastructure  
+- XML-driven Integration  
+- Operational Workflow Automation  
+
+---
+
+## Background
+
+- 3+ years in live production environments at Sky Deutschland GmbH  
+- Diploma in Software Engineering – SAE Institute Germany  
+- B.A. Audio Engineering – Middlesex University  
+- Certified DataMiner Configurator – Skyline Communications  
+
+---
+
+## Approach
+
+- Design for scale  
+- Build for clarity  
+- Optimize for leverage  
+
+I build systems that reduce operational complexity, improve reliability, and translate real-world workflows into scalable software infrastructure.
