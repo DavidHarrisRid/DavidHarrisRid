@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**Software Engineer · Systems Architecture · IoT & Broadcast Infrastructure**
-
 I design and integrate distributed systems for mission-critical broadcast and telecommunication environments.
 
 Currently **Software Engineer – IoT Consultant** at  
