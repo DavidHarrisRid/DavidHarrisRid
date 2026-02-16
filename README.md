@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I design and integrate distributed systems for mission-critical broadcast and telecommunication environments.
+I design and integrate systems for mission-critical broadcast and telecommunication environments.
 
 Currently **Software Engineer – IoT Consultant** at  
 SHM Broadcast GmbH  
