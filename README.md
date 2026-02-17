@@ -3,7 +3,7 @@
 I design and integrate systems for mission-critical broadcast and telecommunication environments.
 
 Currently **Software Engineer – IoT Consultant** at  
-SHM Broadcast GmbH  
+SHM Broadcast GmbH since 2024
 
 B.Sc. Software Engineering (in progress, expected Feb 2027)
 
