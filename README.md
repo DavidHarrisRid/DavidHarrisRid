@@ -28,11 +28,3 @@ B.Sc. Software Engineering (in progress, expected Feb 2027)
 - Certified DataMiner Configurator – Skyline Communications  
 
 ---
-
-## Approach
-
-- Design for scale  
-- Build for clarity  
-- Optimize for leverage  
-
-I build systems that reduce operational complexity, improve reliability, and translate real-world workflows into scalable software infrastructure.
